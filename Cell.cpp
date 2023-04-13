@@ -9,4 +9,7 @@ namespace Core {
 	int Cell::GetY() {
 		return y;
 	}
+	void Cell::OnClick() {
+
+	}
 }

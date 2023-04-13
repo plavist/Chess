@@ -11,6 +11,7 @@ namespace Core{
 		Figure* GetFigure();
 		int GetX();
 		int GetY();
+		void OnClick();
 	};
 }
 
